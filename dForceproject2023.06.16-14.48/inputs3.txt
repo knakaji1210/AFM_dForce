@@ -1,0 +1,25 @@
+res freq 1 (kHz) : 350.00
+drive freq 1 (kHz) : 0.00
+k1 (N/m) : 0.30
+Q1 (adim) : 2.00
+A01 (nm) : 15.00
+Tip Radius (nm) : 5.00
+a0 (nm) : 0.17
+Young's Modulus (MPa) : 100.00
+Hamaker Const(10^-20 J) : 1.00
+Viscosity (Pa s) : 0.00
+sigma surface (adim) : 0.00
+sigma tip(adim) : 0.00,
+Sample thickness (nm): 10.00,
+Debye length : 0.00
+Epsilon : 1.00
+alfa : 0.00
+nc : 0.00
+N periods osc : 4
+N point period : 128
+N per to the ss : 1
+zc max (nm) : 18.75
+zc min (nm) : 3.75
+delta zc (nm) : 0.75
+zc fixed td(nm) : 11.25
+tolerance : 9.00
